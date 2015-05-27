@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TabAttributes">
+        <attr name="tab_background_color" format="color" />
+        <attr name="tab_child_count" format="integer" />
+        <attr name="tab_image_size" format="integer" />
+        <attr name="tab_image_focussed_color" format="color" />
+        <attr name="tab_image_unfocussed_color" format="color" />
+        <attr name="tab_indicator_focussed_color" format="color" />
+        <attr name="tab_indicator_unfocussed_color" format="color" />
+    </declare-styleable>
+
+</resources>
