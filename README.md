@@ -20,3 +20,22 @@ In XML: Simply define
 </com.tabswithfontawesome.views.TabLayout>
 
 In Code:
+
+TabLayout tabLayout = (TabLayout)findViewById(R.id.tabLayout);
+tabLayout.setTabImagesArray(getResources().getStringArray(R.array.image_array));
+tabLayout.setTabClickListener(this);
+tabLayout.attachViewPager(pager);
+tabLayout.createTabs();
+
+In Assets:
+Add FontAwesome.otf file for fontawesome library
+
+In strings.xml: Define your image array as
+<string-array name="image_array">
+        <item>&#xf009;</item>
+        <item>&#xf0f3;</item>
+        <item>&#xf073;</item>
+        <item>&#xf007;</item>
+</string-array>
+
+PS: Make sure your view pager page count and images count should be same otherwise default image would be added.
