@@ -40,3 +40,5 @@ Add FontAwesome.otf file for fontawesome library
 </string-array>
 
 <b>PS:</b> Make sure your view pager page count and images count should be same otherwise default image would be added.
+
+<b>Sample project coming soon.</b>
