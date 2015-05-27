@@ -22,11 +22,11 @@ Import this library as a library project in your workspace and reference your pr
 
 <b>In Code:</b>
 
-TabLayout tabLayout = (TabLayout)findViewById(R.id.tabLayout);</n>
-tabLayout.setTabImagesArray(getResources().getStringArray(R.array.image_array));</n>
-tabLayout.setTabClickListener(this);</n>
-tabLayout.attachViewPager(pager);</n>
-tabLayout.createTabs();</n>
+TabLayout tabLayout = (TabLayout)findViewById(R.id.tabLayout);
+tabLayout.setTabImagesArray(getResources().getStringArray(R.array.image_array));
+tabLayout.setTabClickListener(this);
+tabLayout.attachViewPager(pager);
+tabLayout.createTabs();
 
 <b>In Assets:</b>
 Add FontAwesome.otf file for fontawesome library
