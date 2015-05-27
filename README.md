@@ -7,7 +7,7 @@ Import this library as a library project in your workspace and reference your pr
 
 <b>In XML:</b> Simply define
 
-<com.tabswithfontawesome.views.TabLayout
+com.tabswithfontawesome.views.TabLayout
         android:id="@+id/tabLayout"
         android:layout_width="match_parent"
         android:layout_height="48dp"
@@ -18,7 +18,7 @@ Import this library as a library project in your workspace and reference your pr
         tab:tab_image_unfocussed_color="#bdc3c7"
         tab:tab_indicator_focussed_color="#e74c3c"
         tab:tab_indicator_unfocussed_color="#bdc3c7" >
-</com.tabswithfontawesome.views.TabLayout>
+
 
 <b>In Code:</b>
 
