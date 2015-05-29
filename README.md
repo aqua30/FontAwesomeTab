@@ -6,7 +6,7 @@ No need to use png files and hence reduce your apk size.
 Sample screen 1
 ![alt text][logo]
 
-[logo]: https://www.dropbox.com/s/uwrk7c1ulx0d1iz/Image1.png "FontAwesomeTabs"
+[logo]: http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg "FontAwesomeTabs"
 
 Sample screen 2
 ![alt text][logo]
