@@ -6,12 +6,12 @@ No need to use png files and hence reduce your apk size.
 Sample screen 1
 ![alt text][logo]
 
-[logo]: http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg "FontAwesomeTabs"
+[logo]: http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg
 
 Sample screen 2
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: https://www.dropbox.com/s/xwf5phic4lime7j/Image2.png "FontAwesomeTabs"
+[logo1]: https://www.dropbox.com/s/xwf5phic4lime7j/Image2.png "FontAwesomeTabs"
 
 #How to use:
 
