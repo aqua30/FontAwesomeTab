@@ -7,7 +7,8 @@ Import this library as a library project in your workspace and reference your pr
 
 ##In XML
 
-```com.tabswithfontawesome.views.TabLayout
+```
+com.tabswithfontawesome.views.TabLayout
         android:id="@+id/tabLayout"
         android:layout_width="match_parent"
         android:layout_height="48dp"
@@ -23,7 +24,8 @@ Import this library as a library project in your workspace and reference your pr
 
 ##In Java
 
-```TabLayout tabLayout = (TabLayout)findViewById(R.id.tabLayout);
+```
+TabLayout tabLayout = (TabLayout)findViewById(R.id.tabLayout);
 tabLayout.setTabImagesArray(getResources().getStringArray(R.array.image_array));
 tabLayout.setTabClickListener(this);
 tabLayout.attachViewPager(pager);
@@ -34,7 +36,8 @@ tabLayout.createTabs();
 Add FontAwesome.otf file for fontawesome library
 
 ##In strings.xml: Define your image array as
-```<string-array name="image_array">
+```
+<string-array name="image_array">
         <item>&#xf009;</item>
         <item>&#xf0f3;</item>
         <item>&#xf073;</item>
