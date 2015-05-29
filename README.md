@@ -1,7 +1,7 @@
 # FontAwesomeTab
 Tabs with fontawesome support. This library is created to customize the feel for tabs. Now you can add images using fontawesome. Customize the color for the tab image and its indicator according to your need.
 
-<b>How to use:</b>
+#How to use:
 
 Import this library as a library project in your workspace and reference your project with this library.
 
