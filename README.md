@@ -13,7 +13,7 @@ Sample screen 2
 
 ![alt text][logo1]
 
-[logo1]: https://www.dropbox.com/s/xwf5phic4lime7j/Image2.png "FontAwesomeTabs"
+[logo1]: https://www.dropbox.com/s/xwf5phic4lime7j/Image2.png
 
 #How to use:
 
