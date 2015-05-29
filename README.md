@@ -5,7 +5,7 @@ Tabs with fontawesome support. This library is created to customize the feel for
 
 Import this library as a library project in your workspace and reference your project with this library.
 
-<b>In XML:</b> Simply define
+##In XML
 
 com.tabswithfontawesome.views.TabLayout
         android:id="@+id/tabLayout"
@@ -20,7 +20,7 @@ com.tabswithfontawesome.views.TabLayout
         tab:tab_indicator_unfocussed_color="#bdc3c7" >
 
 
-<b>In Code:</b>
+##In Java
 
 TabLayout tabLayout = (TabLayout)findViewById(R.id.tabLayout);
 tabLayout.setTabImagesArray(getResources().getStringArray(R.array.image_array));
@@ -28,7 +28,7 @@ tabLayout.setTabClickListener(this);
 tabLayout.attachViewPager(pager);
 tabLayout.createTabs();
 
-<b>In Assets:</b>
+#Assets:
 Add FontAwesome.otf file for fontawesome library
 
 <b>In strings.xml:</b> Define your image array as
