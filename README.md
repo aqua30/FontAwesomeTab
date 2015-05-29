@@ -7,7 +7,7 @@ Sample screen 1
 
 ![alt text][logo]
 
-[logo]: http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg "FontAwesomeTabs"
+[logo]: https://www.dropbox.com/s/uwrk7c1ulx0d1iz/Image1.png
 
 Sample screen 2
 
@@ -59,6 +59,6 @@ Add FontAwesome.otf file for fontawesome library
 </string-array>
 ```
 
-<b>PS:</b> Make sure your view pager page count and images count should be same otherwise default image would be added.
+##PS:Make sure your view pager page count and images count should be same otherwise default image would be added.
 
-<b>Sample project coming soon.</b>
+##Sample project coming soon.
