@@ -7,7 +7,7 @@ Import this library as a library project in your workspace and reference your pr
 
 ##In XML
 
-`com.tabswithfontawesome.views.TabLayout
+```com.tabswithfontawesome.views.TabLayout
         android:id="@+id/tabLayout"
         android:layout_width="match_parent"
         android:layout_height="48dp"
@@ -17,27 +17,27 @@ Import this library as a library project in your workspace and reference your pr
         tab:tab_image_size="20"
         tab:tab_image_unfocussed_color="#bdc3c7"
         tab:tab_indicator_focussed_color="#e74c3c"
-        tab:tab_indicator_unfocussed_color="#bdc3c7" >`
+        tab:tab_indicator_unfocussed_color="#bdc3c7" >```
 
 
 ##In Java
 
-`TabLayout tabLayout = (TabLayout)findViewById(R.id.tabLayout);
+```TabLayout tabLayout = (TabLayout)findViewById(R.id.tabLayout);
 tabLayout.setTabImagesArray(getResources().getStringArray(R.array.image_array));
 tabLayout.setTabClickListener(this);
 tabLayout.attachViewPager(pager);
-tabLayout.createTabs();`
+tabLayout.createTabs();```
 
 ##Assets:
 Add FontAwesome.otf file for fontawesome library
 
 ##In strings.xml: Define your image array as
-`<string-array name="image_array">
+```<string-array name="image_array">
         <item>&#xf009;</item>
         <item>&#xf0f3;</item>
         <item>&#xf073;</item>
         <item>&#xf007;</item>
-</string-array>`
+</string-array>```
 
 <b>PS:</b> Make sure your view pager page count and images count should be same otherwise default image would be added.
 
