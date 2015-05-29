@@ -1,5 +1,17 @@
 # FontAwesomeTab
 Tabs with fontawesome support. This library is created to customize the feel for tabs. Now you can add images using fontawesome. Customize the color for the tab image and its indicator according to your need.
+No need to use png files and hence reduce your apk size.
+
+#Screenshot
+Sample screen 1
+![alt text][logo]
+
+[logo]: https://www.dropbox.com/s/uwrk7c1ulx0d1iz/Image1.png?dl=0 "FontAwesomeTabs"
+
+Sample screen 2
+![alt text][logo]
+
+[logo]: https://www.dropbox.com/s/xwf5phic4lime7j/Image2.png?dl=0 "FontAwesomeTabs"
 
 #How to use:
 
